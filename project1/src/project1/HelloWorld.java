@@ -7,4 +7,5 @@ public class HelloWorld {
 	}
 
 	//comment
+	int a;
 }
